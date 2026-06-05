@@ -107,7 +107,7 @@ skills/
     syncfusion-maui-toolkit-theming/
     syncfusion-maui-toolkit-accordion/
     syncfusion-maui-toolkit-shimmer/
-    ... (one folder per control, 33 total)
+    ... (one folder per control, 32 total)
 ```
 
 ## Skill Index
@@ -138,7 +138,7 @@ skills/
 
 - [Date Picker](skills/syncfusion-maui-toolkit-date-picker/SKILL.md)
 - [Date Time Picker](skills/syncfusion-maui-toolkit-date-time-picker/SKILL.md)
-- [Numeric Entry](skills/syncfusion-maui-toolkit-numericentry.md)
+- [Numeric Entry](skills/syncfusion-maui-toolkit-numericentry/SKILL.md)
 - [Numeric Up Down](skills/syncfusion-maui-toolkit-numeric-updown/SKILL.md)
 - [OTP Input](skills/syncfusion-maui-toolkit-otp-input/SKILL.md)
 - [Picker](skills/syncfusion-maui-toolkit-picker/SKILL.md)
